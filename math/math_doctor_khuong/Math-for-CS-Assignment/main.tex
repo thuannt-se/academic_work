@@ -1,0 +1,242 @@
+\documentclass[14pt, a4paper]{article}
+\usepackage{indentfirst}
+\usepackage{color}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphics}
+\usepackage{graphicx}
+\usepackage{longtable, caption}
+\usepackage{makecell}
+\usepackage{lscape}
+\usepackage{pdflscape}
+\usepackage{everypage}
+\usepackage{titlesec}
+\usepackage{fontspec}
+\usepackage{subfig}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{xeCJK}
+\usepackage{array}
+\usepackage{arydshln}
+\usepackage{pgfgantt}
+\usepackage[ruled,linesnumbered]{algorithm2e}
+\usepackage{adjustbox}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\usepackage{float}
+\usepackage{pgfgantt}
+\usepackage{xcolor}
+\usepackage{enumerate}
+\usepackage{algorithmic}
+\usepackage{algorithm} 
+\usepackage[ruled,vlined,linesnumbered,resetcount]{algorithm2e}
+\usepackage{algpseudocode} 
+\definecolor{barblue}{RGB}{153,204,254}
+\definecolor{groupblue}{RGB}{51,102,254}
+\definecolor{linkred}{RGB}{165,0,33}
+\renewcommand\sfdefault{phv}
+\renewcommand\mddefault{mc}
+
+% Gây lỗi không in đậm được
+% \renewcommand\bfdefault{bc}
+
+\setganttlinklabel{s-s}{START-TO-START}
+\setganttlinklabel{f-s}{FINISH-TO-START}
+\setganttlinklabel{f-f}{FINISH-TO-FINISH}
+\sffamily
+
+%\input setbmp
+\usepackage{subcaption}
+\usepackage[export]{adjustbox}
+\usepackage{tikz}
+\usepackage{pgfplots}
+
+\newcommand{\Lpagenumber}{\ifdim\textwidth=\linewidth\else\bgroup
+  \dimendef\margin=0 %use \margin instead of \dimen0
+  \ifodd\value{page}\margin=\oddsidemargin
+  \else\margin=\evensidemargin
+  \fi
+  \raisebox{\dimexpr -\topmargin-\headheight-\headsep-0.5\linewidth}[0pt][0pt]{%
+    \rlap{\hspace{\dimexpr \margin+\textheight+\footskip}%
+    \llap{\rotatebox{90}{\thepage}}}}%
+\egroup\fi}
+\AddEverypageHook{\Lpagenumber}%
+
+% Can le van ban
+\usepackage[left=3.5cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+
+% Numbering for section, subsection, etc.
+\renewcommand{\thesection}{\Roman{section}}
+\titlespacing{\section}{2pt}{0pt}{2pt}
+\titleformat{\section}{\bfseries\large}{\thesection.}{\hspace{0.5em}}{}
+\renewcommand{\thesubsection}{\arabic{subsection}}
+\titleformat{\subsection}{\bfseries\large}{\thesubsection.}{\hspace{0.5em}}{}
+
+% subsubsbusection
+\titleclass{\subsubsubsection}{straight}[\subsection]
+
+\newcounter{subsubsubsection}[subsubsection]
+\renewcommand\thesubsubsubsection{\thesubsubsection.\arabic{subsubsubsection}}
+\renewcommand\theparagraph{\thesubsubsubsection.\arabic{paragraph}} % optional; useful if paragraphs are to be numbered
+
+\titleformat{\subsubsubsection}
+  {\normalfont\normalsize\bfseries}{\thesubsubsubsection}{1em}{}
+\titlespacing*{\subsubsubsection}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+\makeatletter
+\renewcommand\paragraph{\@startsection{paragraph}{5}{\z@}%
+  {3.25ex \@plus1ex \@minus.2ex}%
+  {-1em}%
+  {\normalfont\normalsize\bfseries}}
+\renewcommand\subparagraph{\@startsection{subparagraph}{6}{\parindent}%
+  {3.25ex \@plus1ex \@minus .2ex}%
+  {-1em}%
+  {\normalfont\normalsize\bfseries}}
+\def\toclevel@subsubsubsection{4}
+\def\toclevel@paragraph{5}
+\def\toclevel@paragraph{6}
+\def\l@subsubsubsection{\@dottedtocline{4}{7em}{4em}}
+\def\l@paragraph{\@dottedtocline{5}{10em}{5em}}
+\def\l@subparagraph{\@dottedtocline{6}{14em}{6em}}
+\makeatother
+
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
+
+
+% Numbering for label itemization
+\renewcommand{\baselinestretch}{1.3}
+
+\usepackage{scrextend}
+\changefontsizes{13pt}
+
+\renewcommand{\contentsname}{MỤC LỤC}
+
+\renewcommand{\listfigurename}{DANH SÁCH HÌNH VẼ}
+
+\renewcommand{\listtablename}{DANH SÁCH BẢNG}
+
+\renewcommand{\tablename}{Bảng}
+
+\renewcommand{\figurename}{Hình}
+
+\usepackage{textcomp}
+\usepackage{listings,multicol}
+%\usepackage{minted}      % (requires -shell-escape)
+\usepackage{xcolor}
+\usepackage{filecontents}
+
+% Code highlight
+\usepackage{listings} %code highlighter
+\usepackage{color} %use color
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+ 
+%Customize a bit the look
+\lstset{ %
+    backgroundcolor=\color{white}, % choose the background color; you must add 
+    basicstyle=\footnotesize, % the size of the fonts that are used for the code
+    breakatwhitespace=false, % sets if automatic breaks should only happen at whitespace
+    breaklines=true, % sets automatic line breaking
+    captionpos=b, % sets the caption-position to bottom
+    commentstyle=\color{mygreen}, % comment style
+    deletekeywords={...}, % if you want to delete keywords from the given language
+    escapeinside={\%*}{*)}, % if you want to add LaTeX within your code
+    extendedchars=true, % lets you use non-ASCII characters; for 8-bits encodings only, does not work with UTF-8
+    frame=single, % adds a frame around the code
+    keepspaces=true, % keeps spaces in text, useful for keeping indentation of code (possibly needs columns=flexible)
+    keywordstyle=\color{blue}, % keyword style
+    % language=Octave, % the language of the code
+    morekeywords={*,...}, % if you want to add more keywords to the set
+    numbers=left, % where to put the line-numbers; possible values are (none, left, right)
+    numbersep=5pt, % how far the line-numbers are from the code
+    numberstyle=\tiny\color{mygray}, % the style that is used for the line-numbers
+    rulecolor=\color{black}, % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. comments (green here))
+    showspaces=false, % show spaces everywhere adding particular underscores; it overrides 'showstringspaces'
+    showstringspaces=false, % underline spaces within strings only
+    showtabs=false, % show tabs within strings adding particular underscores
+    stepnumber=1, % the step between two line-numbers. If it's 1, each line will be numbered
+    stringstyle=\color{mymauve}, % string literal style
+    tabsize=2, % sets default tabsize to 2 spaces
+    title=\lstname % show the filename of files included with \lstinputlisting; also try caption instead of title
+}
+ 
+\definecolor{darkgray}{rgb}{.4,.4,.4}
+\definecolor{purple}{rgb}{0.65, 0.12, 0.82}
+ 
+%define Javascript language
+\lstdefinelanguage{JavaScript}{
+    keywords={typeof, new, true, false, catch, function, return, null, catch, switch, var, if, in, while, do, else, case, break},
+    keywordstyle=\color{blue}\bfseries,
+    ndkeywords={class, export, boolean, throw, implements, import, this},
+    ndkeywordstyle=\color{darkgray}\bfseries,
+    identifierstyle=\color{black},
+    sensitive=false,
+    comment=[l]{//},
+    morecomment=[s]{/*}{*/},
+    commentstyle=\color{purple}\ttfamily,
+    stringstyle=\color{red}\ttfamily,
+    morestring=[b]',
+    morestring=[b]"
+}
+ 
+\lstset{
+    language=JavaScript,
+    extendedchars=true,
+    basicstyle=\footnotesize\ttfamily,
+    showstringspaces=false,
+    showspaces=false,
+    numbers=left,
+    numberstyle=\footnotesize,
+    numbersep=9pt,
+    tabsize=2,
+    breaklines=true,
+    showtabs=false,
+    captionpos=b
+}
+
+
+\begin{document}
+
+\captionsetup{justification=centering}
+
+\input{components/title}
+
+% \input{components/loicamdoan_camon}
+% \input{components/tom_tat}
+\newpage
+
+%\addtocontents{toc}{\protect\thispagestyle{empty}}
+\thispagestyle{empty}
+\tableofcontents
+\thispagestyle{empty}
+\newpage
+\thispagestyle{empty}
+\listoffigures
+\thispagestyle{empty}
+\newpage
+
+\setcounter{page}{1}
+
+\newpage
+\input{components/section_1.tex}
+
+\newpage
+\input{components/section_2.tex}
+
+\newpage
+\input{components/section_3.tex}
+
+\newpage
+\input{components/section_4.tex}
+
+\newpage
+\input{components/section_5.tex}
+
+\input{components/reference.tex}
+
+\end{document}

@@ -1,0 +1,42 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {I}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1}Community Structure Identification Problem}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {2}Community Structure Identification for book}{3}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {2.1}Motivation}{3}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.2}Dataset description}{4}{subsubsection.1.2.2}%
+\contentsline {section}{\numberline {II}Preliminaries}{5}{section.2}%
+\contentsline {subsection}{\numberline {1}Networks and Node, Community Structure}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2}Community Detection}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {3}Modularity}{7}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {3.1}Modularity Density}{7}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {3.2}Modularity Q}{7}{subsubsection.2.3.2}%
+\contentsline {section}{\numberline {III}Approaches}{9}{section.3}%
+\contentsline {subsection}{\numberline {1}Community Detection Methods in Network Analysis: Agglomerative and Divisive Approaches}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {2}Girvan-Newman algorithm}{10}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {2.1}Pseudo Code}{11}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.2}Implement Code}{11}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {2.3}Pros, Cons}{12}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {2.4}Time Complexity}{13}{subsubsection.3.2.4}%
+\contentsline {subsection}{\numberline {3}Louvain Algorithm}{13}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.1}Modularity Optimization}{14}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.2}Community Aggregation}{14}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3}Pros, Cons}{14}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.4}Pseudo Code}{15}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.5}Implement Code}{15}{subsubsection.3.3.5}%
+\contentsline {subsection}{\numberline {4}Leiden algorithm}{17}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {4.1}Pseudo code}{19}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {4.2}Pros, Cons}{19}{subsubsection.3.4.2}%
+\contentsline {section}{\numberline {IV}Experiments}{21}{section.4}%
+\contentsline {subsection}{\numberline {1}Preprocessing}{21}{subsection.4.1}%
+\contentsline {subsection}{\numberline {2}Build application}{22}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {2.1}Build Backend}{22}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {2.2}Build Frontend}{22}{subsubsection.4.2.2}%
+\contentsline {subsubsubsection}{\numberline {2.2.1}Components}{23}{subsubsubsection.4.2.2.1}%
+\contentsline {subsection}{\numberline {3}Modularity score comparison}{25}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4}Time Efficiency comparison}{27}{subsection.4.4}%
+\contentsline {subsection}{\numberline {5}Overall comparison}{30}{subsection.4.5}%
+\contentsline {section}{\numberline {V}Conclusion}{31}{section.5}%
+\contentsline {subsection}{\numberline {1}Achievement}{31}{subsection.5.1}%
+\contentsline {subsection}{\numberline {2}Drawback}{31}{subsection.5.2}%
+\contentsline {subsection}{\numberline {3}Future work}{31}{subsection.5.3}%
+\contentsline {section}{\numberline {}References}{32}{subsection.5.3}%
