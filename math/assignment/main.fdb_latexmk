@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1703409957 "main.xdv" "main.pdf" "main" 1703409959 0
-  "main.xdv" 1703409960 499144 ea55196e6bcc4252c8791b695f6c8a57 "xelatex"
+["xdvipdfmx"] 1703412105 "main.xdv" "main.pdf" "main" 1703412107 0
+  "main.xdv" 1703426876 498448 ee15223255fcf9fee6a85f73e1de849f "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1703409959 "/Users/thuannt.se/work/math/Report/main.tex" "main.xdv" "main" 1703409960 2
-  "/Users/thuannt.se/work/math/Report/main.tex" 1703409247 7605 9b92b54aefb0fee639aacb3fb7a42e4b ""
+["xelatex"] 1703426874 "/Users/thuannt.se/work/master_cs/academic_work/math/assignment/main.tex" "main.xdv" "main" 1703426876 2
+  "/Users/thuannt.se/work/master_cs/academic_work/math/assignment/main.tex" 1703409247 7605 9b92b54aefb0fee639aacb3fb7a42e4b ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -274,10 +274,10 @@
   "components/reference.tex" 1703031660 1582 1ac489234b9f842b6c47a0c69ba50768 ""
   "components/section_1.tex" 1703031660 7068 b4df2a310d93286893d25d4024de71e6 ""
   "components/section_2.tex" 1703031660 7246 09769bed0fd9d824c7b8b587ea9088c6 ""
-  "components/section_3.tex" 1703031660 17125 a837989d41de82352e58288602eb5ede ""
+  "components/section_3.tex" 1703411939 17061 775cb9a05bc9fc7e20e045c4f3dc0b00 ""
   "components/section_4.tex" 1703031660 10519 fa8ef61ead0795325e73dd0bac7b5db1 ""
   "components/section_5.tex" 1703031660 1820 fce53de7ca200ce8fde259b0ad9287a4 ""
-  "components/title.tex" 1703031660 1089 be3f642108d91548aa1a65362fbeac7a ""
+  "components/title.tex" 1703426872 1090 cf83ea82dd980e982b8e8483a79dbacc ""
   "image/6.png" 1703031662 344147 cc55dc4147c9caff0b7117be53366c33 ""
   "image/BookNetwork.png" 1703031662 207826 dbccb8fe579c0de74117302f16c71f2a ""
   "image/Louvain.png" 1703031662 191073 3a8821b2cc35728afd75328406ef145f ""
@@ -299,11 +299,11 @@
   "image/pseudo code.png" 1703031662 169614 ba4abcc71d49a94caaf46f29216ec92a ""
   "image/technology.png" 1703031662 52630 0ae39a901176640085438e233a509ab6 ""
   "image/timetest.png" 1703031662 9791 83779bfbc83d6d5478449d5ae32dc092 ""
-  "main.aux" 1703409960 10592 4f25e88c79941d137fb0c392c2a81005 "xelatex"
-  "main.lof" 1703409960 2242 77051c15f729ca49ca494345a4257feb "xelatex"
-  "main.out" 1703409960 6306 8e7ce835cf649ceb42a8fe4ad5b04d98 "xelatex"
+  "main.aux" 1703426875 10592 4f25e88c79941d137fb0c392c2a81005 "xelatex"
+  "main.lof" 1703426876 2242 77051c15f729ca49ca494345a4257feb "xelatex"
+  "main.out" 1703426876 6306 8e7ce835cf649ceb42a8fe4ad5b04d98 "xelatex"
   "main.tex" 1703409247 7605 9b92b54aefb0fee639aacb3fb7a42e4b ""
-  "main.toc" 1703409960 3569 7fc0f8db76c4ab771a1ec82bdf4a0149 "xelatex"
+  "main.toc" 1703426876 3569 7fc0f8db76c4ab771a1ec82bdf4a0149 "xelatex"
   (generated)
   "main.aux"
   "main.lof"
