@@ -1,0 +1,40 @@
+GLPK 4.65 - SENSITIVITY ANALYSIS REPORT                                                                         Page   1
+
+Problem:    galaxy
+Objective:  profit = 87.2 (MAXimum)
+
+   No. Row name     St      Activity         Slack   Lower bound       Activity      Obj coef  Obj value at Limiting
+                                          Marginal   Upper bound          range         range   break point variable
+------ ------------ -- ------------- ------------- -------------  ------------- ------------- ------------- ------------
+     1 profit       BS      87.20000     -87.20000          -Inf       82.00000      -1.00000        .      production_time
+                                            .               +Inf       87.20000          +Inf          +Inf
+
+     2 plastic      NU      20.00000        .               -Inf       12.00000      -3.40000      60.00000 x1
+                                           3.40000      20.00000       22.00000          +Inf      94.00000 total_production
+
+     3 production_time
+                    NU      48.00000        .               -Inf       35.00000       -.40000      82.00000 balanced_mix
+                                            .40000      48.00000       50.00000          +Inf      88.00000 total_production
+
+     4 total_production
+                    BS      13.60000        .40000          -Inf       11.00000      -2.00000      60.00000 production_time
+                                            .           14.00000       13.60000          +Inf          +Inf
+
+     5 balanced_mix BS       -.80000       7.80000          -Inf      -12.00000      -2.42857      89.14286 plastic
+                                            .            7.00000       10.00000        .66667      86.66667 production_time
+
+GLPK 4.65 - SENSITIVITY ANALYSIS REPORT                                                                         Page   2
+
+Problem:    galaxy
+Objective:  profit = 87.2 (MAXimum)
+
+   No. Column name  St      Activity      Obj coef   Lower bound       Activity      Obj coef  Obj value at Limiting
+                                          Marginal   Upper bound          range         range   break point variable
+------ ------------ -- ------------- ------------- -------------  ------------- ------------- ------------- ------------
+     1 x1           BS       6.40000       8.00000        .                -Inf       3.75000      60.00000 plastic
+                                            .               +Inf        9.00000      10.00000     100.00000 production_time
+
+     2 x2           BS       7.20000       5.00000        .             2.00000       4.00000      80.00000 production_time
+                                            .               +Inf       12.00000      10.66667     128.00000 plastic
+
+End of report

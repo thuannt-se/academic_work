@@ -1,0 +1,1034 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="node" attr.name="shape" attr.type="string" />
+  <key id="d2" for="edge" attr.name="weight" attr.type="int" />
+  <key id="d1" for="node" attr.name="color" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="int" />
+  <graph edgedefault="undirected">
+    <node id="69379">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="2691">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+      <data key="d3">Ellipse</data>
+    </node>
+    <node id="79110">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="10634">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="21882">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="76687">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="21137">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="3218">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="17">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="7189">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="31382">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="34202">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="29979">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="14877">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="26015">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="51493">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="68267">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="15917">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="31022">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="49327">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="41520">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="26928">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="44466">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="18626">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="67011">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="21316">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="76999">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="30792">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="20041">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="43213">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="4173">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="77651">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="49620">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="14171">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="44257">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="78436">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="60005">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="29669">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="35303">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="55916">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="37231">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="9583">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="76918">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="19190">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="8438">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="43130">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="14076">
+      <data key="d0">0</data>
+      <data key="d1">red</data>
+    </node>
+    <node id="48254">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <node id="49919">
+      <data key="d0">1</data>
+      <data key="d1">green</data>
+    </node>
+    <edge source="69379" target="68267">
+      <data key="d2">239</data>
+    </edge>
+    <edge source="69379" target="9583">
+      <data key="d2">64</data>
+    </edge>
+    <edge source="69379" target="43130">
+      <data key="d2">630</data>
+    </edge>
+    <edge source="69379" target="77651">
+      <data key="d2">684</data>
+    </edge>
+    <edge source="69379" target="48254">
+      <data key="d2">531</data>
+    </edge>
+    <edge source="69379" target="78436">
+      <data key="d2">350</data>
+    </edge>
+    <edge source="69379" target="43213">
+      <data key="d2">165</data>
+    </edge>
+    <edge source="69379" target="49919">
+      <data key="d2">169</data>
+    </edge>
+    <edge source="69379" target="76999">
+      <data key="d2">118</data>
+    </edge>
+    <edge source="69379" target="79110">
+      <data key="d2">171</data>
+    </edge>
+    <edge source="69379" target="10634">
+      <data key="d2">66</data>
+    </edge>
+    <edge source="69379" target="21316">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="69379" target="55916">
+      <data key="d2">75</data>
+    </edge>
+    <edge source="2691" target="17">
+      <data key="d2">522</data>
+    </edge>
+    <edge source="2691" target="7189">
+      <data key="d2">323</data>
+    </edge>
+    <edge source="2691" target="8438">
+      <data key="d2">120</data>
+    </edge>
+    <edge source="2691" target="14171">
+      <data key="d2">502</data>
+    </edge>
+    <edge source="2691" target="26015">
+      <data key="d2">390</data>
+    </edge>
+    <edge source="2691" target="19190">
+      <data key="d2">351</data>
+    </edge>
+    <edge source="2691" target="15917">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="2691" target="21882">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="79110" target="68267">
+      <data key="d2">87</data>
+    </edge>
+    <edge source="79110" target="37231">
+      <data key="d2">88</data>
+    </edge>
+    <edge source="79110" target="41520">
+      <data key="d2">118</data>
+    </edge>
+    <edge source="79110" target="43130">
+      <data key="d2">239</data>
+    </edge>
+    <edge source="79110" target="43213">
+      <data key="d2">495</data>
+    </edge>
+    <edge source="79110" target="10634">
+      <data key="d2">79</data>
+    </edge>
+    <edge source="79110" target="76918">
+      <data key="d2">74</data>
+    </edge>
+    <edge source="79110" target="76999">
+      <data key="d2">284</data>
+    </edge>
+    <edge source="79110" target="77651">
+      <data key="d2">173</data>
+    </edge>
+    <edge source="79110" target="78436">
+      <data key="d2">154</data>
+    </edge>
+    <edge source="79110" target="48254">
+      <data key="d2">171</data>
+    </edge>
+    <edge source="79110" target="49919">
+      <data key="d2">665</data>
+    </edge>
+    <edge source="79110" target="21316">
+      <data key="d2">80</data>
+    </edge>
+    <edge source="79110" target="55916">
+      <data key="d2">99</data>
+    </edge>
+    <edge source="79110" target="14877">
+      <data key="d2">61</data>
+    </edge>
+    <edge source="79110" target="31382">
+      <data key="d2">61</data>
+    </edge>
+    <edge source="79110" target="60005">
+      <data key="d2">86</data>
+    </edge>
+    <edge source="79110" target="21137">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="10634" target="67011">
+      <data key="d2">49</data>
+    </edge>
+    <edge source="10634" target="37231">
+      <data key="d2">66</data>
+    </edge>
+    <edge source="10634" target="9583">
+      <data key="d2">415</data>
+    </edge>
+    <edge source="10634" target="43130">
+      <data key="d2">79</data>
+    </edge>
+    <edge source="10634" target="43213">
+      <data key="d2">51</data>
+    </edge>
+    <edge source="10634" target="21137">
+      <data key="d2">49</data>
+    </edge>
+    <edge source="10634" target="29979">
+      <data key="d2">169</data>
+    </edge>
+    <edge source="10634" target="31022">
+      <data key="d2">129</data>
+    </edge>
+    <edge source="10634" target="44466">
+      <data key="d2">49</data>
+    </edge>
+    <edge source="10634" target="49327">
+      <data key="d2">49</data>
+    </edge>
+    <edge source="10634" target="78436">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="10634" target="14076">
+      <data key="d2">88</data>
+    </edge>
+    <edge source="10634" target="26928">
+      <data key="d2">67</data>
+    </edge>
+    <edge source="10634" target="30792">
+      <data key="d2">59</data>
+    </edge>
+    <edge source="10634" target="21316">
+      <data key="d2">92</data>
+    </edge>
+    <edge source="10634" target="48254">
+      <data key="d2">57</data>
+    </edge>
+    <edge source="10634" target="49919">
+      <data key="d2">79</data>
+    </edge>
+    <edge source="10634" target="55916">
+      <data key="d2">52</data>
+    </edge>
+    <edge source="10634" target="76999">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="10634" target="77651">
+      <data key="d2">66</data>
+    </edge>
+    <edge source="21882" target="17">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="21882" target="34202">
+      <data key="d2">500</data>
+    </edge>
+    <edge source="21882" target="3218">
+      <data key="d2">180</data>
+    </edge>
+    <edge source="21882" target="14171">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="21882" target="15917">
+      <data key="d2">479</data>
+    </edge>
+    <edge source="21882" target="19190">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="21882" target="20041">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="21882" target="26015">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="21882" target="26928">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="21882" target="29669">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="76687" target="67011">
+      <data key="d2">237</data>
+    </edge>
+    <edge source="76687" target="44257">
+      <data key="d2">519</data>
+    </edge>
+    <edge source="76687" target="49327">
+      <data key="d2">151</data>
+    </edge>
+    <edge source="76687" target="49620">
+      <data key="d2">119</data>
+    </edge>
+    <edge source="21137" target="67011">
+      <data key="d2">97</data>
+    </edge>
+    <edge source="21137" target="41520">
+      <data key="d2">453</data>
+    </edge>
+    <edge source="21137" target="9583">
+      <data key="d2">49</data>
+    </edge>
+    <edge source="21137" target="43213">
+      <data key="d2">63</data>
+    </edge>
+    <edge source="21137" target="44466">
+      <data key="d2">70</data>
+    </edge>
+    <edge source="21137" target="14076">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="21137" target="14877">
+      <data key="d2">60</data>
+    </edge>
+    <edge source="21137" target="49327">
+      <data key="d2">91</data>
+    </edge>
+    <edge source="21137" target="49919">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="21137" target="18626">
+      <data key="d2">60</data>
+    </edge>
+    <edge source="21137" target="51493">
+      <data key="d2">68</data>
+    </edge>
+    <edge source="21137" target="31382">
+      <data key="d2">83</data>
+    </edge>
+    <edge source="21137" target="29979">
+      <data key="d2">81</data>
+    </edge>
+    <edge source="21137" target="30792">
+      <data key="d2">53</data>
+    </edge>
+    <edge source="21137" target="31022">
+      <data key="d2">86</data>
+    </edge>
+    <edge source="3218" target="34202">
+      <data key="d2">219</data>
+    </edge>
+    <edge source="3218" target="20041">
+      <data key="d2">356</data>
+    </edge>
+    <edge source="3218" target="15917">
+      <data key="d2">292</data>
+    </edge>
+    <edge source="17" target="7189">
+      <data key="d2">315</data>
+    </edge>
+    <edge source="17" target="8438">
+      <data key="d2">77</data>
+    </edge>
+    <edge source="17" target="14171">
+      <data key="d2">527</data>
+    </edge>
+    <edge source="17" target="26015">
+      <data key="d2">379</data>
+    </edge>
+    <edge source="17" target="19190">
+      <data key="d2">376</data>
+    </edge>
+    <edge source="17" target="15917">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="7189" target="8438">
+      <data key="d2">286</data>
+    </edge>
+    <edge source="7189" target="14171">
+      <data key="d2">323</data>
+    </edge>
+    <edge source="7189" target="26015">
+      <data key="d2">232</data>
+    </edge>
+    <edge source="7189" target="19190">
+      <data key="d2">177</data>
+    </edge>
+    <edge source="31382" target="35303">
+      <data key="d2">196</data>
+    </edge>
+    <edge source="31382" target="37231">
+      <data key="d2">479</data>
+    </edge>
+    <edge source="31382" target="41520">
+      <data key="d2">151</data>
+    </edge>
+    <edge source="31382" target="43213">
+      <data key="d2">64</data>
+    </edge>
+    <edge source="31382" target="14076">
+      <data key="d2">119</data>
+    </edge>
+    <edge source="31382" target="14877">
+      <data key="d2">569</data>
+    </edge>
+    <edge source="31382" target="49919">
+      <data key="d2">60</data>
+    </edge>
+    <edge source="31382" target="18626">
+      <data key="d2">486</data>
+    </edge>
+    <edge source="31382" target="21316">
+      <data key="d2">172</data>
+    </edge>
+    <edge source="31382" target="29979">
+      <data key="d2">107</data>
+    </edge>
+    <edge source="31382" target="30792">
+      <data key="d2">92</data>
+    </edge>
+    <edge source="31382" target="31022">
+      <data key="d2">89</data>
+    </edge>
+    <edge source="34202" target="15917">
+      <data key="d2">407</data>
+    </edge>
+    <edge source="34202" target="78436">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="34202" target="26928">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="34202" target="29669">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="29979" target="67011">
+      <data key="d2">60</data>
+    </edge>
+    <edge source="29979" target="35303">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="29979" target="4173">
+      <data key="d2">78</data>
+    </edge>
+    <edge source="29979" target="37231">
+      <data key="d2">53</data>
+    </edge>
+    <edge source="29979" target="41520">
+      <data key="d2">53</data>
+    </edge>
+    <edge source="29979" target="9583">
+      <data key="d2">147</data>
+    </edge>
+    <edge source="29979" target="44466">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="29979" target="14076">
+      <data key="d2">371</data>
+    </edge>
+    <edge source="29979" target="14877">
+      <data key="d2">101</data>
+    </edge>
+    <edge source="29979" target="49327">
+      <data key="d2">53</data>
+    </edge>
+    <edge source="29979" target="18626">
+      <data key="d2">62</data>
+    </edge>
+    <edge source="29979" target="30792">
+      <data key="d2">350</data>
+    </edge>
+    <edge source="29979" target="31022">
+      <data key="d2">509</data>
+    </edge>
+    <edge source="14877" target="35303">
+      <data key="d2">221</data>
+    </edge>
+    <edge source="14877" target="37231">
+      <data key="d2">562</data>
+    </edge>
+    <edge source="14877" target="41520">
+      <data key="d2">149</data>
+    </edge>
+    <edge source="14877" target="43213">
+      <data key="d2">64</data>
+    </edge>
+    <edge source="14877" target="14076">
+      <data key="d2">109</data>
+    </edge>
+    <edge source="14877" target="18626">
+      <data key="d2">667</data>
+    </edge>
+    <edge source="14877" target="30792">
+      <data key="d2">82</data>
+    </edge>
+    <edge source="14877" target="31022">
+      <data key="d2">86</data>
+    </edge>
+    <edge source="14877" target="49919">
+      <data key="d2">60</data>
+    </edge>
+    <edge source="14877" target="21316">
+      <data key="d2">205</data>
+    </edge>
+    <edge source="26015" target="14171">
+      <data key="d2">510</data>
+    </edge>
+    <edge source="26015" target="15917">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="26015" target="19190">
+      <data key="d2">425</data>
+    </edge>
+    <edge source="51493" target="67011">
+      <data key="d2">400</data>
+    </edge>
+    <edge source="51493" target="68267">
+      <data key="d2">112</data>
+    </edge>
+    <edge source="51493" target="76999">
+      <data key="d2">62</data>
+    </edge>
+    <edge source="51493" target="44257">
+      <data key="d2">84</data>
+    </edge>
+    <edge source="51493" target="44466">
+      <data key="d2">533</data>
+    </edge>
+    <edge source="51493" target="78436">
+      <data key="d2">119</data>
+    </edge>
+    <edge source="51493" target="14076">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="51493" target="49327">
+      <data key="d2">420</data>
+    </edge>
+    <edge source="51493" target="49620">
+      <data key="d2">84</data>
+    </edge>
+    <edge source="51493" target="30792">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="68267" target="67011">
+      <data key="d2">108</data>
+    </edge>
+    <edge source="68267" target="78436">
+      <data key="d2">564</data>
+    </edge>
+    <edge source="68267" target="44466">
+      <data key="d2">66</data>
+    </edge>
+    <edge source="68267" target="49327">
+      <data key="d2">112</data>
+    </edge>
+    <edge source="68267" target="43130">
+      <data key="d2">394</data>
+    </edge>
+    <edge source="68267" target="48254">
+      <data key="d2">132</data>
+    </edge>
+    <edge source="68267" target="77651">
+      <data key="d2">269</data>
+    </edge>
+    <edge source="68267" target="43213">
+      <data key="d2">79</data>
+    </edge>
+    <edge source="68267" target="49919">
+      <data key="d2">83</data>
+    </edge>
+    <edge source="68267" target="76999">
+      <data key="d2">53</data>
+    </edge>
+    <edge source="15917" target="14171">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="15917" target="19190">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="15917" target="20041">
+      <data key="d2">128</data>
+    </edge>
+    <edge source="15917" target="26928">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="31022" target="4173">
+      <data key="d2">98</data>
+    </edge>
+    <edge source="31022" target="9583">
+      <data key="d2">98</data>
+    </edge>
+    <edge source="31022" target="14076">
+      <data key="d2">366</data>
+    </edge>
+    <edge source="31022" target="18626">
+      <data key="d2">63</data>
+    </edge>
+    <edge source="31022" target="30792">
+      <data key="d2">365</data>
+    </edge>
+    <edge source="49327" target="67011">
+      <data key="d2">511</data>
+    </edge>
+    <edge source="49327" target="9583">
+      <data key="d2">49</data>
+    </edge>
+    <edge source="49327" target="44257">
+      <data key="d2">151</data>
+    </edge>
+    <edge source="49327" target="44466">
+      <data key="d2">343</data>
+    </edge>
+    <edge source="49327" target="78436">
+      <data key="d2">122</data>
+    </edge>
+    <edge source="49327" target="49620">
+      <data key="d2">78</data>
+    </edge>
+    <edge source="41520" target="37231">
+      <data key="d2">105</data>
+    </edge>
+    <edge source="41520" target="43213">
+      <data key="d2">114</data>
+    </edge>
+    <edge source="41520" target="18626">
+      <data key="d2">105</data>
+    </edge>
+    <edge source="41520" target="14076">
+      <data key="d2">72</data>
+    </edge>
+    <edge source="41520" target="30792">
+      <data key="d2">72</data>
+    </edge>
+    <edge source="41520" target="49919">
+      <data key="d2">113</data>
+    </edge>
+    <edge source="41520" target="21316">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="26928" target="4173">
+      <data key="d2">73</data>
+    </edge>
+    <edge source="26928" target="37231">
+      <data key="d2">95</data>
+    </edge>
+    <edge source="26928" target="14076">
+      <data key="d2">73</data>
+    </edge>
+    <edge source="26928" target="18626">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="26928" target="21316">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="26928" target="29669">
+      <data key="d2">199</data>
+    </edge>
+    <edge source="26928" target="30792">
+      <data key="d2">57</data>
+    </edge>
+    <edge source="44466" target="67011">
+      <data key="d2">276</data>
+    </edge>
+    <edge source="44466" target="9583">
+      <data key="d2">49</data>
+    </edge>
+    <edge source="44466" target="76999">
+      <data key="d2">62</data>
+    </edge>
+    <edge source="44466" target="44257">
+      <data key="d2">84</data>
+    </edge>
+    <edge source="44466" target="78436">
+      <data key="d2">76</data>
+    </edge>
+    <edge source="44466" target="49620">
+      <data key="d2">84</data>
+    </edge>
+    <edge source="44466" target="55916">
+      <data key="d2">115</data>
+    </edge>
+    <edge source="18626" target="35303">
+      <data key="d2">200</data>
+    </edge>
+    <edge source="18626" target="37231">
+      <data key="d2">519</data>
+    </edge>
+    <edge source="18626" target="14076">
+      <data key="d2">71</data>
+    </edge>
+    <edge source="18626" target="30792">
+      <data key="d2">63</data>
+    </edge>
+    <edge source="18626" target="21316">
+      <data key="d2">165</data>
+    </edge>
+    <edge source="67011" target="44257">
+      <data key="d2">237</data>
+    </edge>
+    <edge source="67011" target="14076">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="67011" target="30792">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="67011" target="9583">
+      <data key="d2">49</data>
+    </edge>
+    <edge source="67011" target="78436">
+      <data key="d2">118</data>
+    </edge>
+    <edge source="67011" target="49620">
+      <data key="d2">61</data>
+    </edge>
+    <edge source="21316" target="35303">
+      <data key="d2">513</data>
+    </edge>
+    <edge source="21316" target="37231">
+      <data key="d2">198</data>
+    </edge>
+    <edge source="21316" target="43130">
+      <data key="d2">86</data>
+    </edge>
+    <edge source="21316" target="43213">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="21316" target="76999">
+      <data key="d2">56</data>
+    </edge>
+    <edge source="21316" target="77651">
+      <data key="d2">56</data>
+    </edge>
+    <edge source="21316" target="48254">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="21316" target="49919">
+      <data key="d2">80</data>
+    </edge>
+    <edge source="21316" target="55916">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="76999" target="43130">
+      <data key="d2">150</data>
+    </edge>
+    <edge source="76999" target="43213">
+      <data key="d2">139</data>
+    </edge>
+    <edge source="76999" target="48254">
+      <data key="d2">119</data>
+    </edge>
+    <edge source="76999" target="49919">
+      <data key="d2">363</data>
+    </edge>
+    <edge source="76999" target="77651">
+      <data key="d2">122</data>
+    </edge>
+    <edge source="76999" target="78436">
+      <data key="d2">92</data>
+    </edge>
+    <edge source="76999" target="55916">
+      <data key="d2">94</data>
+    </edge>
+    <edge source="76999" target="60005">
+      <data key="d2">55</data>
+    </edge>
+    <edge source="76999" target="44257">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="76999" target="49620">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="30792" target="35303">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="30792" target="4173">
+      <data key="d2">253</data>
+    </edge>
+    <edge source="30792" target="37231">
+      <data key="d2">62</data>
+    </edge>
+    <edge source="30792" target="14076">
+      <data key="d2">464</data>
+    </edge>
+    <edge source="30792" target="29669">
+      <data key="d2">70</data>
+    </edge>
+    <edge source="43213" target="37231">
+      <data key="d2">53</data>
+    </edge>
+    <edge source="43213" target="43130">
+      <data key="d2">233</data>
+    </edge>
+    <edge source="43213" target="48254">
+      <data key="d2">165</data>
+    </edge>
+    <edge source="43213" target="49919">
+      <data key="d2">424</data>
+    </edge>
+    <edge source="43213" target="77651">
+      <data key="d2">169</data>
+    </edge>
+    <edge source="43213" target="78436">
+      <data key="d2">128</data>
+    </edge>
+    <edge source="43213" target="55916">
+      <data key="d2">79</data>
+    </edge>
+    <edge source="43213" target="60005">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="43213" target="76918">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="4173" target="14076">
+      <data key="d2">312</data>
+    </edge>
+    <edge source="4173" target="29669">
+      <data key="d2">242</data>
+    </edge>
+    <edge source="77651" target="9583">
+      <data key="d2">64</data>
+    </edge>
+    <edge source="77651" target="43130">
+      <data key="d2">626</data>
+    </edge>
+    <edge source="77651" target="48254">
+      <data key="d2">507</data>
+    </edge>
+    <edge source="77651" target="78436">
+      <data key="d2">330</data>
+    </edge>
+    <edge source="77651" target="49919">
+      <data key="d2">171</data>
+    </edge>
+    <edge source="77651" target="55916">
+      <data key="d2">78</data>
+    </edge>
+    <edge source="49620" target="44257">
+      <data key="d2">316</data>
+    </edge>
+    <edge source="49620" target="55916">
+      <data key="d2">95</data>
+    </edge>
+    <edge source="14171" target="8438">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="14171" target="19190">
+      <data key="d2">446</data>
+    </edge>
+    <edge source="44257" target="55916">
+      <data key="d2">65</data>
+    </edge>
+    <edge source="78436" target="43130">
+      <data key="d2">475</data>
+    </edge>
+    <edge source="78436" target="48254">
+      <data key="d2">201</data>
+    </edge>
+    <edge source="78436" target="49919">
+      <data key="d2">132</data>
+    </edge>
+    <edge source="78436" target="55916">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="60005" target="76918">
+      <data key="d2">614</data>
+    </edge>
+    <edge source="60005" target="49919">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="29669" target="14076">
+      <data key="d2">102</data>
+    </edge>
+    <edge source="35303" target="14076">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="35303" target="37231">
+      <data key="d2">240</data>
+    </edge>
+    <edge source="55916" target="43130">
+      <data key="d2">103</data>
+    </edge>
+    <edge source="55916" target="48254">
+      <data key="d2">75</data>
+    </edge>
+    <edge source="55916" target="49919">
+      <data key="d2">79</data>
+    </edge>
+    <edge source="37231" target="14076">
+      <data key="d2">62</data>
+    </edge>
+    <edge source="37231" target="49919">
+      <data key="d2">87</data>
+    </edge>
+    <edge source="9583" target="43130">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="9583" target="48254">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="9583" target="14076">
+      <data key="d2">57</data>
+    </edge>
+    <edge source="43130" target="48254">
+      <data key="d2">470</data>
+    </edge>
+    <edge source="43130" target="49919">
+      <data key="d2">237</data>
+    </edge>
+    <edge source="48254" target="49919">
+      <data key="d2">166</data>
+    </edge>
+  </graph>
+</graphml>
