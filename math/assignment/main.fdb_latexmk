@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1703412105 "main.xdv" "main.pdf" "main" 1703412107 0
-  "main.xdv" 1703426876 498448 ee15223255fcf9fee6a85f73e1de849f "xelatex"
+["xdvipdfmx"] 1703431349 "main.xdv" "main.pdf" "main" 1703431353 0
+  "main.xdv" 1703431354 526692 ef4ad784383935aa0fde5b632b977612 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1703426874 "/Users/thuannt.se/work/master_cs/academic_work/math/assignment/main.tex" "main.xdv" "main" 1703426876 2
+["xelatex"] 1703431353 "/Users/thuannt.se/work/master_cs/academic_work/math/assignment/main.tex" "main.xdv" "main" 1703431354 2
   "/Users/thuannt.se/work/master_cs/academic_work/math/assignment/main.tex" 1703409247 7605 9b92b54aefb0fee639aacb3fb7a42e4b ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -272,20 +272,19 @@
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1687082238 10502841 9876efcccef1cef331e47dbcea6af6fa ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "components/reference.tex" 1703031660 1582 1ac489234b9f842b6c47a0c69ba50768 ""
-  "components/section_1.tex" 1703031660 7068 b4df2a310d93286893d25d4024de71e6 ""
+  "components/section_1.tex" 1703431331 9983 d38ed4a06269b58217357a45a524405d ""
   "components/section_2.tex" 1703031660 7246 09769bed0fd9d824c7b8b587ea9088c6 ""
   "components/section_3.tex" 1703411939 17061 775cb9a05bc9fc7e20e045c4f3dc0b00 ""
   "components/section_4.tex" 1703031660 10519 fa8ef61ead0795325e73dd0bac7b5db1 ""
   "components/section_5.tex" 1703031660 1820 fce53de7ca200ce8fde259b0ad9287a4 ""
   "components/title.tex" 1703426872 1090 cf83ea82dd980e982b8e8483a79dbacc ""
   "image/6.png" 1703031662 344147 cc55dc4147c9caff0b7117be53366c33 ""
-  "image/BookNetwork.png" 1703031662 207826 dbccb8fe579c0de74117302f16c71f2a ""
   "image/Louvain.png" 1703031662 191073 3a8821b2cc35728afd75328406ef145f ""
-  "image/SocialNetworkApplicated.png" 1703031662 489419 4c80fd79a4926ce71b18b4847d445a8f ""
   "image/bku.png" 1703031660 222452 6f6c25214b80c2e1887090f7f123f5ae ""
   "image/book category.jpg" 1703031662 425487 ac36655b4af9218b4617fb2a54e077ad ""
   "image/book-detail.jpg" 1703031662 273410 052ea611e2beea9251c88cd750e15fe4 ""
   "image/book-detail2.jpg" 1703031662 408214 879042d933e634a465076e49eac0801e ""
+  "image/clustering_product_based.png" 1703430528 1022966 beec6231d07e2f89aaf25624a9a5faa5 ""
   "image/girvantimetest.png" 1703031662 22311 f645d9b54724661cfd34b6b753b58859 ""
   "image/homepage.jpg" 1703031662 488712 33404181fa285af60a345aa41ebc8f8b ""
   "image/homepage2.jpg" 1703031662 431251 e46194ac7c6818aa2c1fd8ab9de3a81c ""
@@ -296,14 +295,16 @@
   "image/modularity measure girvan.png" 1703031662 46708 cb31bceec8e780bdbe932330c97c8fbd ""
   "image/modularity measure leiden.png" 1703031662 43098 c468551fcd6f78518b5bb5d443d6e149 ""
   "image/modularity measure louvain.png" 1703031662 43304 67dfc257660a1dc1de024f870b79648c ""
+  "image/protein_interaction_example.png" 1703428846 1586276 27125e646f19939b0df0559c34eab87b ""
   "image/pseudo code.png" 1703031662 169614 ba4abcc71d49a94caaf46f29216ec92a ""
+  "image/social_nx_example.png" 1703428777 1427455 31cc59d7e0ae9ce3cd5095500010940e ""
   "image/technology.png" 1703031662 52630 0ae39a901176640085438e233a509ab6 ""
   "image/timetest.png" 1703031662 9791 83779bfbc83d6d5478449d5ae32dc092 ""
-  "main.aux" 1703426875 10592 4f25e88c79941d137fb0c392c2a81005 "xelatex"
-  "main.lof" 1703426876 2242 77051c15f729ca49ca494345a4257feb "xelatex"
-  "main.out" 1703426876 6306 8e7ce835cf649ceb42a8fe4ad5b04d98 "xelatex"
+  "main.aux" 1703431354 11082 e7cee9ffe0f4b7edd21802c3b44b39b2 "xelatex"
+  "main.lof" 1703431354 2375 b180d9dcdfa4d2070477974f7cea93c0 "xelatex"
+  "main.out" 1703431354 6353 9b9abb12250797a2642966053af11d3a "xelatex"
   "main.tex" 1703409247 7605 9b92b54aefb0fee639aacb3fb7a42e4b ""
-  "main.toc" 1703426876 3569 7fc0f8db76c4ab771a1ec82bdf4a0149 "xelatex"
+  "main.toc" 1703431354 3693 6ff6118ea7e38d4a7da43af331d08134 "xelatex"
   (generated)
   "main.aux"
   "main.lof"

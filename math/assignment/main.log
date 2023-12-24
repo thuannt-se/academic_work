@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.18)  24 DEC 2023 21:07
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.18)  24 DEC 2023 22:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1437,22 +1437,44 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 [1]
-File: image/SocialNetworkApplicated.png Graphic file (type bmp)
-<image/SocialNetworkApplicated.png>
+File: image/social_nx_example.png Graphic file (type bmp)
+<image/social_nx_example.png>
+File: image/protein_interaction_example.png Graphic file (type bmp)
+<image/protein_interaction_example.png>
 
-./components/section_1.tex:28: Missing number, treated as zero.
+
+./components/section_1.tex:34: LaTeX Error: \begin{document} ended by \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \end{center}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./components/section_1.tex:34: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.34 \end{center}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+./components/section_1.tex:36: Missing number, treated as zero.
 <to be read again> 
                    \protect 
-l.28 ...mmunity Structure Identification for book}
+l.36 ...{CSIP for user cluster and product rating}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-./components/section_1.tex:28: Illegal unit of measure (pt inserted).
+./components/section_1.tex:36: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \protect 
-l.28 ...mmunity Structure Identification for book}
+l.36 ...{CSIP for user cluster and product rating}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, bp, or sp; but yours is a new one!
@@ -1462,9 +1484,14 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 [2]
-File: image/BookNetwork.png Graphic file (type bmp)
-<image/BookNetwork.png>
- [3]) [4] (./components/section_2.tex
+File: image/clustering_product_based.png Graphic file (type bmp)
+<image/clustering_product_based.png>
+ [3] [4]
+Overfull \hbox (0.67136pt too wide) in paragraph at lines 68--69
+[]\TU/lmr/bx/n/13 Discovering New Delights: \TU/lmr/c/n/13 Customers venture beyond their usual brows-
+ []
+
+[5]) [6] [7] (./components/section_2.tex
 ./components/section_2.tex:1: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1522,7 +1549,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-[5]
+[8]
 ./components/section_2.tex:10: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1544,7 +1571,7 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-[6]
+[9]
 ./components/section_2.tex:19: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1581,7 +1608,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--30
 
  []
 
-[7]) [8] (./components/section_3.tex
+[10]) [11] (./components/section_3.tex
 ./components/section_3.tex:1: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1631,7 +1658,7 @@ Overfull \hbox (44.54185pt too wide) in paragraph at lines 6--7
  [] 
  []
 
-[9]
+[12]
 ./components/section_3.tex:17: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1674,7 +1701,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
 
  []
 
-[10]
+[13]
 
 LaTeX Font Warning: Font shape `TU/lmr/c/it' undefined
 (Font)              using `TU/lmr/c/n' instead on input line 61.
@@ -1710,7 +1737,7 @@ Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
 
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.83347> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 68.
-[11] [12]
+[14] [15]
 ./components/section_3.tex:112: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1739,7 +1766,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--116
 
 File: image/Louvain.png Graphic file (type bmp)
 <image/Louvain.png>
-[13] [14] [15] [16]
+[16] [17] [18] [19]
 ./components/section_3.tex:276: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1766,12 +1793,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 278--280
 
  []
 
-[17]
+[20]
 File: image/6.png Graphic file (type bmp)
 <image/6.png>
 File: image/pseudo code.png Graphic file (type bmp)
 <image/pseudo code.png>
- [18] [19]) [20] (./components/section_4.tex
+ [21] [22]) [23] (./components/section_4.tex
 ./components/section_4.tex:1: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1840,22 +1867,22 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-[21]
+[24]
 File: image/technology.png Graphic file (type bmp)
 <image/technology.png>
- [22]
+ [25]
 File: image/homepage.jpg Graphic file (type bmp)
 <image/homepage.jpg>
 File: image/homepage2.jpg Graphic file (type bmp)
 <image/homepage2.jpg>
 File: image/book category.jpg Graphic file (type bmp)
 <image/book category.jpg>
- [23]
+ [26]
 File: image/book-detail.jpg Graphic file (type bmp)
 <image/book-detail.jpg>
 File: image/book-detail2.jpg Graphic file (type bmp)
 <image/book-detail2.jpg>
- [24]
+ [27]
 ./components/section_4.tex:147: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1881,12 +1908,12 @@ File: image/modulairytest.png Graphic file (type bmp)
 <image/modulairytest.png>
 File: image/modularity measure louvain.png Graphic file (type bmp)
 <image/modularity measure louvain.png>
-[25]
+[28]
 File: image/modularity measure leiden.png Graphic file (type bmp)
 <image/modularity measure leiden.png>
 File: image/modularity measure girvan.png Graphic file (type bmp)
 <image/modularity measure girvan.png>
- [26]
+ [29]
 ./components/section_4.tex:182: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1910,15 +1937,15 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 File: image/timetest.png Graphic file (type bmp)
 <image/timetest.png>
-[27]
+[30]
 File: image/girvantimetest.png Graphic file (type bmp)
 <image/girvantimetest.png>
 File: image/louvaintimetest.png Graphic file (type bmp)
 <image/louvaintimetest.png>
- [28]
+ [31]
 File: image/leidentimetest.png Graphic file (type bmp)
 <image/leidentimetest.png>
- [29]
+ [32]
 ./components/section_4.tex:215: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1950,7 +1977,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--236
 
  []
 
-[30] (./components/section_5.tex
+[33] (./components/section_5.tex
 ./components/section_5.tex:1: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -2035,7 +2062,7 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-) (./components/reference.tex [31]
+) (./components/reference.tex [34]
 Underfull \hbox (badness 10000) in paragraph at lines 24--25
 []\TU/lmr/c/it/13 Dataset source: []$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][] []
  []
@@ -2070,7 +2097,7 @@ Underfull \hbox (badness 1297) in paragraph at lines 35--37
 Package caption Warning: Unused \captionsetup[sub] on input line 52.
 See the caption package documentation for explanation.
 
-[32] (./main.aux)
+[35] (./main.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -2088,15 +2115,15 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  8E7CE835CF649CEB42A8FE4AD5B04D98;6306.
+(rerunfilecheck)             After:  9B9ABB12250797A2642966053AF11D3A;6353.
  ) 
 Here is how much of TeX's memory you used:
- 45179 strings out of 476683
- 1075225 string characters out of 5804047
+ 45208 strings out of 476683
+ 1077149 string characters out of 5804047
  2237018 words of memory out of 5000000
- 64626 multiletter control sequences out of 15000+600000
+ 64654 multiletter control sequences out of 15000+600000
  518036 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  108i,14n,106p,1093b,2018s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (35 pages, 498448 bytes).
+Output written on main.xdv (38 pages, 526692 bytes).
