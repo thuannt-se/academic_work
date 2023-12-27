@@ -29,24 +29,25 @@ For example (fig 1.2), the algorithm can extract the similar properties of fruit
     \end{center}
 
 \item\textbf{Semi-supervised machine learning:} Combining aspects of both supervised and unsupervised learning. This approach utilizes a mix of labeled and unlabeled data for training [4]. Typically, an algorithm works on a small amount of labeled data and a larger pool of unlabeled data. By incorporating this hybrid approach, learning accuracy can significantly improve. Also, obtaining labeled data is expensive and time-consuming, as the model can leverage the large pool of unlabeled data to improve its performance
-\end{itemize}
-\begin{figure}[!htp]
-    \centering
-    \includegraphics[width=0.8 \textwidth]{image/semi_supervised.png}
-    \caption{Figure 1.3 semi-supervised learning}
-    \label{subsection}
-\end{figure}
+\begin{center}
+    \begin{figure}[!htp]
+        \centering
+        \includegraphics[width=0.8 \textwidth]{image/semi_supervised.png}
+        \caption{Figure 1.3 semi-supervised learning}
+        \label{subsection}
+    \end{figure}
 \end{center}
 
 \item\textbf{Reinforcement learning:} This learning method involves an interactive process where an agent interacts with its environment, taking actions and receiving rewards [5]. Reinforcement learning is characterized by trial and error in making decisions and acquiring rewards. This approach enables machines and software agents to determine the optimal behavior within a specific context, maximizing their performance. Simple reward feedback guides the agent's learning process, known as the reinforcement signal. When combined with AI and cognitive technologies, machine learning becomes a powerful tool for processing vast amounts of information, yielding faster and more accurate results to identify the most profitable opportunities or potential risks. Reinforcement learning is commonly used in areas such as robotics, game-playing, and autonomous systems.
-\end{itemize}
-\begin{figure}[!htp]
-    \centering
-    \includegraphics[width=0.8 \textwidth]{image/reinforcement_learning.png}
-    \caption{Figure 1.4 Reinforcement learning}
-    \label{subsection}
-\end{figure}
+\begin{center}
+    \begin{figure}[!htp]
+        \centering
+        \includegraphics[width=0.8 \textwidth]{image/reinforcement_learning.png}
+        \caption{Figure 1.4 Reinforcement learning}
+        \label{subsection}
+    \end{figure}
 \end{center}
+\end{itemize}
 
 \subsection{Machine Learning in Everyday Applications}
 \subsubsection{Virtual Personal Assistants}
@@ -113,3 +114,64 @@ However, these setups limited patient mobility due to device size and the number
 Furthermore, hospitals expended substantial resources on providing long-term cardiac monitoring, which was often unavailable, particularly in low or middle-income countries. 
 Remote patient monitoring systems effectively address these challenges and reduce mortality rates associated with chronic diseases such as heart disease and diabetes. IoT platforms and devices have played a significant role in accelerating the development and integration of RPM systems into existing healthcare infrastructures. Consequently, a typical RPM implementation encompasses various services, including but not limited to data acquisition, tracking, communication, automated analysis, diagnoses, and notification systems.
 
+\subsection{Neural Networks & Deep learning}
+\subsubsection{Neural Networks & Deep learning introduction}
+A neural network is a series of algorithms that aims to discover underlying relationships in a dataset by simulating the functioning of the human brain. Neural networks can adapt to changing input, generating optimal results without redesigning output criteria. 
+This concept, rooted in artificial intelligence, is increasingly popular in developing intelligent systems.
+
+In finance, neural networks are utilized in various processes such as time-series forecasting, algorithmic trading, securities classification, credit risk modeling, and constructing proprietary indicators and price derivatives.
+
+Moreover, neural networks have been widely used for image recognition tasks such as object detection, image classification, and facial recognition. In natural language processing, it has shown remarkable performance in various tasks such as language translation, sentiment analysis, and text generation. 
+Also, the application of neural networks has been demonstrated in speech recognition, autonomous vehicles, and medical diagnosis. 
+The functioning of a neural network resembles that of the human brain's neural network. A "neuron" in a neural network is a mathematical function that collects and categorizes information based on a specific architecture. The network bears similarities to statistical methods like curve fitting and regression analysis [14].
+
+A neural network consists of interconnected layers of nodes, where each node functions as a perceptron, similar to multiple linear regression. The perceptron passes the signal from multiple linear regression through an activation function, which can be nonlinear
+
+In a multi-layered perceptron (MLP), perceptrons are organized into interconnected layers. The input layer receives input patterns, while the output layer provides classifications or output signals corresponding to the input patterns. 
+For example, input patterns may consist of technical indicators for security, and potential outputs could be "buy," "hold," or "sell".
+
+Hidden layers in the neural network adjust the input weightings until the network's margin of error is minimized. It is hypothesized that hidden layers extract significant features from the input data that have predictive power for the outputs. This process, known as feature extraction, serves a purpose similar to statistical techniques like principal component analysis [15].
+\begin{center}
+    \begin{figure}[!htp]
+        \centering
+        \includegraphics[width=0.8 \textwidth]{image/MLFN_with_weights.jpeg}
+        \caption{Figure 2.3 Multi-layer perceptron}
+        \label{subsection}
+    \end{figure}
+    \end{center}
+
+A Deep Neural Network (DNN) is a type of artificial neural network (ANN) that consists of multiple layers between the input and output layers. The DNN employs various mathematical operations to transform the input into the desired output, accommodating both linear and non-linear relationships.
+
+Deep learning is a specific function within the field of artificial intelligence (AI) that emulates the information processing and pattern recognition capabilities of the human brain. It falls under the umbrella of machine learning and involves the use of neural networks capable of unsupervised learning from unstructured or unlabeled data. It is also referred to as deep neural learning or deep neural network [15].
+
+\subsubsection{Machine learning vs Deep learning}
+
+\begin{center}
+    \begin{figure}[!htp]
+        \centering
+        \includegraphics[width=0.8 \textwidth]{image/dnn_vs_ml.jpeg}
+        \caption{Figure 2.4 Deep learning vs Machine learning}
+        \label{subsection}
+    \end{figure}
+    \end{center}
+
+Deep neural networks are characterized by their deeply nested network architectures, typically consisting of multiple hidden layers. These networks employ advanced neurons that utilize operations like convolutions and multiple activations within a single neuron, going beyond the simple activation functions used in traditional artificial neural networks (ANNs). 
+It enables deep neural networks to process raw input data and automatically learn representations relevant to the learning task. This capability is commonly referred to as deep learning. In contrast, simple ANNs (such as shallow autoencoders) and other machine learning (ML) algorithms like decision trees are considered part of shallow machine learning as they lack these functionalities. 
+While some shallow ML algorithms are inherently interpretable by humans and are considered as white boxes, the decision-making process of most advanced ML algorithms is inherently untraceable unless explicitly explained, making them black boxes.
+
+Deep learning (DL) excels in domains with large and high-dimensional datasets, making deep neural networks outperform shallow ML algorithms in tasks involving text, image, video, speech, and audio data processing. 
+However, when dealing with low-dimensional data inputs, especially in scenarios with limited training data availability, shallow ML approaches can still produce superior result, 
+which are often more interpretable compared to those generated by deep neural networks [16]. 
+
+\subsubsection{Applications and challenges of AI in Internet of thing}
+Several case studies have showcased the successful integration of Internet of Things (IoT) and machine learning technologies in various fields including smart cities such as improving the efficiency of urban services, and enhancing citizens' overall quality of life. 
+Deep learning algorithms combined with video analysis have been identified as practical applications in smart cities. 
+In one study, researchers developed an IoT system based on deep learning for remote monitoring and early detection of health issues in real time. 
+The system exhibited impressive accuracy in identifying heart conditions, achieving a remarkable accuracy rate of 0.982 [17] [18].
+
+However, deploying deep learning methodologies within IoT frameworks presents challenges and limitations. These challenges can be broadly categorized into ethical and privacy implications, scalability and resource constraints, and the ongoing need for research and development.
+Integrating deep learning into IoT has significantly advanced security and efficiency in surveillance applications. IoT devices with deep learning capabilities, such as convolutional neural networks, can effectively analyze video streams to detect threats and anomalies, improving real-time monitoring and predictive insights.
+
+Nevertheless, these applications face significant challenges, such as the need for extensive datasets and substantial computational power.
+The scalability of deep learning models in the IoT poses a significant concern. IoT devices often have limited computational resources, making it challenging to deploy complex deep-learning models that require substantial data processing capabilities.
+It is crucial to optimize these models for deployment on resource-constrained devices, necessitating innovative solutions that strike a balance between the computational demands of deep learning algorithms and the inherent limitations of IoT hardware. [19]
