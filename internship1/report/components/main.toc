@@ -1,0 +1,33 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {I}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1}Machine Learning Introduction}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1}Machine Learning algorithm}{1}{subsubsection.1.1.1}%
+\contentsline {subsection}{\numberline {2}Machine Learning in Everyday Applications}{3}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {2.1}Virtual Personal Assistants}{3}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.2}Predictive in communication}{4}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {2.3}Video surveillance}{4}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {2.4}Social media services}{4}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {2.5}Recommendation System}{5}{subsubsection.1.2.5}%
+\contentsline {subsection}{\numberline {3}Internet of Things}{5}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {3.1}Introduction}{5}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {3.2}Applications of IoT}{6}{subsubsection.1.3.2}%
+\contentsline {subsection}{\numberline {4}Neural Networks & Deep learning}{9}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {4.1}Neural Networks & Deep learning introduction}{9}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {4.2}Machine learning vs Deep learning}{10}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {4.3}Applications and challenges of AI in Internet of thing}{11}{subsubsection.1.4.3}%
+\contentsline {section}{\numberline {II}TinyML and AI on the Edge}{13}{section.2}%
+\contentsline {subsection}{\numberline {1}Edge computing and AIoT overview}{13}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {1.1}TinyML overview}{13}{subsubsection.2.1.1}%
+\contentsline {subsection}{\numberline {2}TinyML framework and software}{14}{subsection.2.2}%
+\contentsline {subsection}{\numberline {3}Conclusion}{15}{subsection.2.3}%
+\contentsline {section}{\numberline {III}Project: Speech emotion recognition for edge devices}{17}{section.3}%
+\contentsline {subsection}{\numberline {1}Motivation}{17}{subsection.3.1}%
+\contentsline {subsection}{\numberline {2}Project overview}{18}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {2.1}Introduction}{18}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.2}Dataset description}{18}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {2.3}Preliminary Methodology}{18}{subsubsection.3.2.3}%
+\contentsline {section}{\numberline {IV}Project outcome}{20}{section.4}%
+\contentsline {subsection}{\numberline {1}Preprocessing}{20}{subsection.4.1}%
+\contentsline {subsection}{\numberline {2}Model training & evaluation}{21}{subsection.4.2}%
+\contentsline {subsection}{\numberline {3}Model compression}{22}{subsection.4.3}%
+\contentsline {section}{\numberline {}References}{24}{table.caption.17}%

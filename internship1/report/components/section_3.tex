@@ -36,13 +36,9 @@ These datasets serve as valuable resources for training and evaluating models to
 \subsubsection{Preliminary Methodology}
 The method employed in this project is based on the work of Sheetal U. Bhandari and Harshawardhan S. Kumbhar. They selected the Long Short-Term Memory (LSTM) architecture and Mel-frequency cepstral coefficients (MFCCs) for the speech emotion recognition (SER) task due to their proven effectiveness in learning from sequences. [26]
 
-Human emotion can be represented in terms of valence (pleasantness) and intensity [27]. For this implementation scenario, "Fear", "Disgusted", "Angry" and "Sad" are merged into a category as "Unpleasant" emotions, while "Happy", and "Surprised" are merged into another category as "Pleasant" emotions.
-Finally, we would have 3 classes: "Pleasant", "Unpleasant", "Neutral".
-
 For feature extraction, I utilize Mel-Frequency Cepstral Coefficient (MFCC) as it is a popular feature extraction technique for speech recognition [25]. MFCC effectively reduces the computational complexity of the system while enhancing its ability to extract relevant features, including parameters like pitch and energy [3]. By converting the frequency information of the speech signal into a smaller set of coefficients, 
 MFCC simplifies the feature extraction process [3]. It represents the short-term power spectrum of sound through a linear cosine transform of a logarithmic power spectrum on a non-linear Mel scale of frequency. [27]
 
 LSTM is a type of recurrent neural network (RNN) that can learn long-term dependencies between time steps of sequence data. It is a popular choice for speech recognition tasks due to its ability to learn from sequences of data since in emotion detection,  it is crucial to take into account the interdependence of each section with the preceding one [26].
 
 Once the standard training and validation pipeline is completed, I convert the model into TensorFlow Lite (TFLite) format, optimizing its size through quantization. Furthermore, I compare the inference time of the quantized model with that of the original model, evaluating the trade-off between model size and inference speed.
-\subsubsection{Dataset preprocessing}
