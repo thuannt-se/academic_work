@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.18)  30 DEC 2023 11:46
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.18)  3 JAN 2024 20:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/thuannt.se/work/master_cs/academic_work/math/assignment/main.tex
-(/Users/thuannt.se/work/master_cs/academic_work/math/assignment/main.tex
+**/Users/thuannt.se/work/master_cs/academic_work/math/community_detection/pdf/main.tex
+(/Users/thuannt.se/work/master_cs/academic_work/math/community_detection/pdf/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -887,7 +887,7 @@ or  <return>  to continue without it.
 
 )
 
-/Users/thuannt.se/work/master_cs/academic_work/math/assignment/main.tex:35: LaTeX Error: Option clash for package algorithm2e.
+/Users/thuannt.se/work/master_cs/academic_work/math/community_detection/pdf/main.tex:35: LaTeX Error: Option clash for package algorithm2e.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -945,7 +945,7 @@ LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
 (Font)              using `TU/lmr/m/n' instead on input line 49.
 
 
-/Users/thuannt.se/work/master_cs/academic_work/math/assignment/main.tex:54: LaTeX Error: Option clash for package adjustbox.
+/Users/thuannt.se/work/master_cs/academic_work/math/community_detection/pdf/main.tex:54: LaTeX Error: Option clash for package adjustbox.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1388,12 +1388,7 @@ No file main.toc.
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-[1]
-No file main.lof.
-\tf@lof=\write6
-\openout6 = `main.lof'.
-
-[2] (./components/section_1.tex
+[1] (./components/section_1.tex
 ./components/section_1.tex:1: Missing number, treated as zero.
 <to be read again> 
                    \protect 
@@ -1803,22 +1798,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--9
 File: image/evaluation.png Graphic file (type bmp)
 <image/evaluation.png>
 )
-Underfull \hbox (badness 10000) in paragraph at lines 15--237
+Underfull \hbox (badness 10000) in paragraph at lines 15--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--237
+Underfull \hbox (badness 10000) in paragraph at lines 15--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--237
+Underfull \hbox (badness 10000) in paragraph at lines 15--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--237
+Underfull \hbox (badness 10000) in paragraph at lines 15--236
 
  []
 
@@ -1963,12 +1958,12 @@ Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             After:  E722AD34CD810BE6B70E1CD1DA662BFF;5286.
  ) 
 Here is how much of TeX's memory you used:
- 44817 strings out of 476683
- 1070796 string characters out of 5804047
+ 44813 strings out of 476683
+ 1070797 string characters out of 5804047
  1856018 words of memory out of 5000000
- 64286 multiletter control sequences out of 15000+600000
+ 64283 multiletter control sequences out of 15000+600000
  518012 words of font info for 73 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,11n,106p,920b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,11n,106p,933b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (27 pages, 351496 bytes).
+Output written on main.xdv (26 pages, 351156 bytes).

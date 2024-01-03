@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1703911555 "main.xdv" "main.pdf" "main" 1703911559 0
-  "main.xdv" 1703911596 351496 92b954d871d1207900078c99d1697afe "xelatex"
+["xdvipdfmx"] 0 "main.xdv" "main.pdf" "main" 0 -1
+  "main.xdv" 1704287797 351156 ae723cc179d0673c7174b59bd530aa16 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1703911594 "/Users/thuannt.se/work/master_cs/academic_work/math/assignment/main.tex" "main.xdv" "main" 1703911596 2
-  "/Users/thuannt.se/work/master_cs/academic_work/math/assignment/main.tex" 1703691677 7623 024773927e958068eaac46adaa1cfe36 ""
+["xelatex"] 1704287796 "/Users/thuannt.se/work/master_cs/academic_work/math/community_detection/pdf/main.tex" "main.xdv" "main" 1704287797 2
+  "/Users/thuannt.se/work/master_cs/academic_work/math/community_detection/pdf/main.tex" 1704287387 7608 3003c7a006d316fbbf91f369a86e3bb5 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -273,10 +273,10 @@
   "components/reference.tex" 1703031660 1582 1ac489234b9f842b6c47a0c69ba50768 ""
   "components/section_1.tex" 1703722584 9998 0828615f61ed9dfb7160f1b852fcc637 ""
   "components/section_2.tex" 1703911593 7055 1fe9cd4cf366ff3e0e3cdd79b49efb76 ""
-  "components/section_3.tex" 1703492121 14302 900e346e4d0e809c83d2a97090cdd436 ""
+  "components/section_3.tex" 1704287794 14302 900e346e4d0e809c83d2a97090cdd436 ""
   "components/section_4.tex" 1703910829 2152 31d8442a2a19212a1e2824f29122e010 ""
   "components/section_5.tex" 1703031660 1820 fce53de7ca200ce8fde259b0ad9287a4 ""
-  "components/title.tex" 1703426872 1090 cf83ea82dd980e982b8e8483a79dbacc ""
+  "components/title.tex" 1704287221 1110 0cdabf8766e29126ddfe80486ca01cfe ""
   "image/Louvain.png" 1703031662 191073 3a8821b2cc35728afd75328406ef145f ""
   "image/agglo_divi_algo.jpeg" 1703476454 93798 479cc298227617d84af024b888edd313 ""
   "image/bku.png" 1703031660 222452 6f6c25214b80c2e1887090f7f123f5ae ""
@@ -285,14 +285,12 @@
   "image/evaluation.png" 1703691677 53910 012775668cbdcfde8ea442b7cf0e09f7 ""
   "image/protein_interaction_example.png" 1703428846 1586276 27125e646f19939b0df0559c34eab87b ""
   "image/social_nx_example.png" 1703428777 1427455 31cc59d7e0ae9ce3cd5095500010940e ""
-  "main.aux" 1703911596 7225 49d62ca46f7bbb798e3ef0bafd59ed1c "xelatex"
-  "main.lof" 1703911596 661 8a46532af37ef5f23bc524137c64335d "xelatex"
-  "main.out" 1703911596 5286 e722ad34cd810be6b70e1cd1da662bff "xelatex"
-  "main.tex" 1703691677 7623 024773927e958068eaac46adaa1cfe36 ""
-  "main.toc" 1703911596 3160 68b6491e43a8c52a90ef7730efa7de09 "xelatex"
+  "main.aux" 1704287797 7225 be3a79fe2a0d933f5b48315709e123b3 "xelatex"
+  "main.out" 1704287797 5286 e722ad34cd810be6b70e1cd1da662bff "xelatex"
+  "main.tex" 1704287387 7608 3003c7a006d316fbbf91f369a86e3bb5 ""
+  "main.toc" 1704287797 3160 68b6491e43a8c52a90ef7730efa7de09 "xelatex"
   (generated)
   "main.aux"
-  "main.lof"
   "main.log"
   "main.out"
   "main.toc"
