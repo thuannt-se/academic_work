@@ -1,0 +1,39 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {I}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1}Community Structure Identification Problem}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {2}CSIP for user cluster and product rating}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {2.1}Motivation}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.2}Dataset and approach proposal}{5}{subsubsection.1.2.2}%
+\contentsline {paragraph}{Dataset}{5}{section*.6}%
+\contentsline {paragraph}{Approach proposal}{6}{section*.7}%
+\contentsline {section}{\numberline {II}Preliminaries}{8}{section.2}%
+\contentsline {subsection}{\numberline {1}Networks and Node, Community Structure}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2}Community Detection problem}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {3}Partitioning quality evaluation}{10}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {3.1}Modularity}{10}{subsubsection.2.3.1}%
+\contentsline {section}{\numberline {III}Approaches}{12}{section.3}%
+\contentsline {subsection}{\numberline {1}Community Detection Methods in Network Analysis: Agglomerative and Divisive Approaches}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {2}Clauset-Newman-Moore greedy modularity maximization}{13}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {2.1}Pseudo Code}{15}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.2}Complexity}{15}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {2.3}Pros and Cons}{16}{subsubsection.3.2.3}%
+\contentsline {paragraph}{Pros}{16}{section*.8}%
+\contentsline {paragraph}{Cons}{16}{section*.9}%
+\contentsline {subsection}{\numberline {3}Louvain Algorithm}{16}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.1}Modularity Optimization}{17}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.2}Community Aggregation}{17}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3}Pseudo Code}{18}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.4}Pros and Cons}{18}{subsubsection.3.3.4}%
+\contentsline {subsection}{\numberline {4}Label Propagation Algorithm}{19}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {4.1}Intuition}{19}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {4.2}Pseudocode}{19}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {4.3}Complexity}{19}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {4.4}Pros and Cons}{19}{subsubsection.3.4.4}%
+\contentsline {paragraph}{Pros}{19}{section*.11}%
+\contentsline {paragraph}{Cons}{20}{section*.12}%
+\contentsline {section}{\numberline {IV}Experiments}{21}{section.4}%
+\contentsline {section}{\numberline {V}Conclusion}{23}{section.5}%
+\contentsline {subsection}{\numberline {1}Achievement}{23}{subsection.5.1}%
+\contentsline {subsection}{\numberline {2}Drawback}{23}{subsection.5.2}%
+\contentsline {subsection}{\numberline {3}Future work}{23}{subsection.5.3}%
+\contentsline {section}{\numberline {}References}{24}{subsection.5.3}%
