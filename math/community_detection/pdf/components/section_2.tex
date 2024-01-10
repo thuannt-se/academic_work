@@ -41,3 +41,11 @@ Here, m is the number of links, $k_{i}$ is the degree of vertex i, $k_{j}$ is th
 An alternate formulation of this is as a sum over communities:
 $$Q=\frac{1}{2m}\sum_{c}(A_{c}-\frac{K_{c}^{2}}{4m})$$
 where $m_{c}$ is the number of internal edges (or tatal internal edge weight) of community $c$ and $K_{c} = \sum_{i|\sigma_{i}=c}k_{i}$ is the total (weighted) degree of nodes in community $c$.
+\subsubsection{Mean absolute error}
+Another major problem of using modularity to evaluate the partitioning process is due to no precise definition issue. A general definition of community does not exist. This issue creates many challenges open for future research. Despite community detection being one of the most vital fields of research in social media mining, a proper definition of this problem is absent.
+
+This would make it hard to define a Ground-truth solution that can be confirmed as the “best solution.” Therefore, we shall combine with domain knowledge to evaluate the partitioning process, and in this project, we will use the Mean Absolute Error.
+
+In statistics, mean absolute error (MAE) measures errors between paired observations expressing the same phenomenon. This can be expressed as:
+
+\text{MAE} = \frac{1}{n} \sum_{i=1}^{n} |y_i - x_i| = \frac{1}{n} \sum_{i=1}^{n} |e_1|
