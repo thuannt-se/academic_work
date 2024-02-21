@@ -11,6 +11,7 @@
 \contentsline {subsection}{\numberline {2}Community Detection problem}{9}{subsection.2.2}%
 \contentsline {subsection}{\numberline {3}Partitioning quality evaluation}{10}{subsection.2.3}%
 \contentsline {subsubsection}{\numberline {3.1}Modularity}{10}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {3.2}Mean absolute error}{11}{subsubsection.2.3.2}%
 \contentsline {section}{\numberline {III}Approaches}{12}{section.3}%
 \contentsline {subsection}{\numberline {1}Community Detection Methods in Network Analysis: Agglomerative and Divisive Approaches}{12}{subsection.3.1}%
 \contentsline {subsection}{\numberline {2}Clauset-Newman-Moore greedy modularity maximization}{13}{subsection.3.2}%
